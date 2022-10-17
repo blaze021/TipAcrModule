@@ -1,0 +1,9 @@
+# Terraform provider modules
+.terraform
+.terraform.lock.hcl
+# Terraform plan files
+output.tfplan
+output1.tfplan
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
